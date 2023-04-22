@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+    <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif">
+</p>
 
 <!--
 **gabrielrce/gabrielrce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

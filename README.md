@@ -1,11 +1,11 @@
 <img align='right' src='https://media2.giphy.com/media/B4jfJqiIxvU08/giphy.gif'><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-My name is Gabriel Ramirez. I am a Software Engineer born and raised in Merida, Mexico. I am currently working in <a href="https://www.greenfieldteam.net" target="_blank">Greenfield Team</a> as Backend Developer.
+My name is Gabriel Ramirez. I am a Software Engineer born and raised in Merida, Mexico. I am currently working in <a href="https://arces.mx/" target="_blank">Arces MX</a> as Security Analyst / Backend Developer.
 
 ## 💻 Technologies
-* **Frontend:** JS (Jquery, Vue), HTML5, CSS3, Bootstrap.
 * **Backend:** PHP (Yii2, Laravel), Node.js, C#. 
-* **OS:** Windows, Linux, iOS, Android. 
+* **Frontend:** JS (Jquery, Vue), HTML5, CSS3, Bootstrap.
+* **OS:** Linux, Windows, iOS, Android. 
 * **Data Storage:** MySQL, MongoDB, PostgresSQL. 
  
 ## 🎭 Hobbies 
